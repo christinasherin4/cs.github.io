@@ -7,37 +7,6 @@
 </head>
 
 <body style="background-color:#FBF34F;">
-<style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-body, html {
-  height: 50%;
-  margin: 35px;
-}.bg {
-  background-image: url("C:\\Users\\Christina\\Desktop\\photos\\tu.gif");
-  height: 50%; 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-</style>
-<style>
-p{
-  margin:35px;
-}
-
- <style>
- a:first-child div {
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px;
-}
-a:last-child div {
-    border-top-right-radius: 4px;
-    border-bottom-right-radius: 4px;
-}
-</style>
-</nav>
-<div class="bg"></div>
-</style>
 <header>
 <h1><b>MATTERS OF THE HEART</b></h1>
 <hr>
